@@ -1,5 +1,5 @@
 # shri-2018-2
-'Node.js' home task
+Домашка по Node.js.
 
 #### Установка и запуск
 
@@ -15,4 +15,4 @@ npm i
 npm start
 ```
 
-Сервер доступен по адресу [http://localhost:9000](http://localhost:9000)
+После запуска сервер станет доступен по адресу [http://localhost:9000](http://localhost:9000)
